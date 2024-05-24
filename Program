@@ -1,5 +1,5 @@
 class Parent {
-    void show() { System.out.println("Parent's show())
+    void show() { System.out.println("Parent's family shows())
 }
  
 // Inherited class
