@@ -13,7 +13,7 @@ class Child extends {
  
 // Driver class
 class Main {
-    public static void main(String[] args)
+    public static void main(String[] args);
     {
         // If a Parent type reference refers
         // to a Parent object, then Parent's
